@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Syntax to define a variable
 name=abc
 

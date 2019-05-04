@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Syntax of simple if then else-if statement
 if [ 35 -gt 55 ]
 then

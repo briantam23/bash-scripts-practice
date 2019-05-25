@@ -2,6 +2,8 @@ Various Bash scripts
 
 ## Getting Started
 
+1. [push-changes.sh](scripts/push-changes.sh): Push Changes to GitHub
+1. [deploy.sh](scripts/deploy.sh): Deploy to Heroku
 1. [hello-world.sh](scripts/hello-world.sh): get a simple output
 1. [variables.sh](scripts/variables.sh): defining & accessing variables
 1. [quotes.sh](scripts/quotes.sh): basic quotes syntax (3 types)

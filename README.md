@@ -8,3 +8,4 @@ Various Bash scripts
 1. [conditionals.sh](scripts/conditionals.sh): basic conditional syntax
 1. [looping.sh](scripts/looping.sh): basic looping syntax
 1. [functions.sh](scripts/functions.sh): basic function syntax
+1. [user-input.sh](scripts/user-input.sh): basic user input syntax

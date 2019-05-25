@@ -1,4 +1,4 @@
-Various Bash scripts
+# Various Bash scripts
 
 ## Getting Started
 
